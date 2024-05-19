@@ -1,6 +1,6 @@
 # DEMSA
-## Intorduction
-This is the implementation of paper: Currently unavailable
+## Introduction
+This is the implementation of the paper: Currently unavailable
 
 ## Dataset Link
 Official website
